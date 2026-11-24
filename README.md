@@ -21,5 +21,6 @@ I bring legal-grade analytical precision to fast-moving Agile environments—bri
 ---
 
 #### Featured Repository & Links
+- **Visual Portfolio:** [Interactive Notion Hub — Case Studies & PDF Playbooks](https://maryna-denysenko.notion.site/Maryna-Denysenko-IT-Agile-Project-Manager-422d081720bb80eb9797d6ee5635758b)
 - **Toolkit:** [Agile, Risk & AI Governance Toolkit](https://github.com/maryna-denysenko/agile-risk-ai-governance-toolkit) *(Markdown templates for Charters, Risk Registers, IP Gates & Sprint 0 AI Checklists)*
 - **LinkedIn:** [linkedin.com/in/maryna-denysenko](https://www.linkedin.com/in/maryna-denysenko/)
